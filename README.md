@@ -33,6 +33,7 @@ This project demonstrates how to build an end-to-end machine learning pipeline u
 - **Reproducibility**: DVC ensures that data, code, and parameters reproduce consistent results.
 - **Experimentation**: MLflow supports easy tracking and comparison of experiments.
 - **Collaboration**: DVC and MLflow enable organized team workflows with clear versioning.
+- **Feature Engineering**: We are not doing any feature engineering for this project. The goal is to build a reproducible pipeline.
 
 ## Use Cases
 - **Data Science Teams**: Maintain structured, reproducible pipelines and model histories.
